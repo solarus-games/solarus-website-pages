@@ -1,4 +1,4 @@
-# L'éveil du héros
+# Chapitre 1 : L'éveil du héros
 
 ## Préparatifs
 
