@@ -1,4 +1,4 @@
-# L'éveil du héros
+# Chapitre 1 : L'éveil du héros
 
 ## Préparatifs
 
@@ -16,14 +16,14 @@ Descendez et suivez le seul chemin qui se présente à vous. Traversez les deux 
 
 ![Maison des Rubis](img/house-cave/rupees-house.png)
 
-Si vous avez assez de rubis, arrêtez-vous dans la *Maison des Rubis* (une pancarte indique de quelle maison il s'agit) pour récupérer un Fragment de Coeur. C'est le jeu tout à droite. Repérez le bon chemin à faire avant de parler au personnage, et allez au bout du chemin. Pour information, le bon chemin est celui de gauche. Une fois le mini labyrinthe passé, le compte à rebours s'arrête et vous avez tout le temps de pousser les blocs (il n'y a qu'une seule façon de faire, voir l'image si vous avez un doute) et récupérer l'argent ainsi que le **Fragment de Coeur #01**.
+Si vous avez assez de rubis, arrêtez-vous dans la *Maison des Rubis* (une pancarte indique de quelle maison il s'agit) pour récupérer un Fragment de Cœur. C'est le jeu tout à droite. Repérez le bon chemin à faire avant de parler au personnage, et allez au bout du chemin. Pour information, le bon chemin est celui de gauche. Une fois le mini labyrinthe passé, le compte à rebours s'arrête et vous avez tout le temps de pousser les blocs (il n'y a qu'une seule façon de faire, voir l'image si vous avez un doute) et récupérer l'argent ainsi que le **Fragment de Cœur #01**.
 
 ## Caverne de Lyriann
 
 | Etage | Carte |
 |:--:|--|
-| RDC | ![RDC](img/dungeons/00-lyriann-cave-1f.png) |
-| Sous-sol 1 | ![Sous-sol 1](img/dungeons/00-lyriann-cave-b1.png) |
+| RDC | ![RDC](img/dungeons/00-lyriann-cave-1f.fr_FR.png) |
+| Sous-sol 1 | ![Sous-sol 1](img/dungeons/00-lyriann-cave-b1.fr_FR.png) |
 
 | Salle | Ennemis |
 |:-----:|:--------|
@@ -49,10 +49,10 @@ Vous pouvez désormais monter sur la plateforme pour redescendre au -1 en étant
 
 Une fois à côté de l'interrupteur de cristal, baissez les plots oranges, passez, puis baissez les bleus. Il faut maintenant lancez le boomerang et se ruer vers le nord avant qu'il n'atteigne le téléporteur pour être sur les plots bleus avant qu'ils remontent. A savoir que pendant l'animation où Link lance le Boomerang, vous pouvez déjà appuyer vers le haut, il ne changera pas de direction avant que le boomerang ne soit lancé.
 
-Vous pouvez désormais passer sous la plateforme vous menant à l'étage inférieur. Prenez garde au Tetdoss (ennemi invincible qui saura vous mener la vie dure), et tuez tous les ennemis. Il faudra le faire dans chaque salle pour pouvoir avancer. Dans la seconde salle, les Tetdoss vont toujours dans la même direction, laissez-les passer et suivez-les à une distance respectable. Si vous vous retrouvez en mauvaise posture, cachez-vous à côté d'une torche, le plus éloigné possible du centre de la pièce, et soyez prêt à accueillir les Popos au cas où (les Tetdoss ne devraient pas pouvoir vous atteindre). Les vases dans la dernière salle contiennent des coeurs au besoin. Sautez dans le trou.
+Vous pouvez désormais passer sous la plateforme vous menant à l'étage inférieur. Prenez garde au Tetdoss (ennemi invincible qui saura vous mener la vie dure), et tuez tous les ennemis. Il faudra le faire dans chaque salle pour pouvoir avancer. Dans la seconde salle, les Tetdoss vont toujours dans la même direction, laissez-les passer et suivez-les à une distance respectable. Si vous vous retrouvez en mauvaise posture, cachez-vous à côté d'une torche, le plus éloigné possible du centre de la pièce, et soyez prêt à accueillir les Popos au cas où (les Tetdoss ne devraient pas pouvoir vous atteindre). Les vases dans la dernière salle contiennent des cœurs au besoin. Sautez dans le trou.
 
-Vous vous retrouvez dans un mini-labyrinthe. Prenez par la gauche en direction du pot, continuez tout droit jusqu'à rencontrer un croisement, où il y a les quatre pots : prenez sur la gauche pour passer entre ces quatre pots. Avant que le sol ne devienne sombre, passez par le sud : le nord est piégé et vous empêchera de passer. Vous pouvez ainsi récupérer le **Fragment de Coeur #02**. Revenez au croisement avec les quatre pots, et cette fois prenez à droite. Ne prenez pas le téléporteur et passez plutôt au niveau des plots oranges. Longez le muret sur la gauche jusqu'à la statue et tirez-la d'un cran. Profitez-en pour activer l'interrupteur de cristal. Vous pouvez le faire soit en diagonale depuis les plots oranges, soit le faire de face et vite aller vers le nord pour montez sur les plots oranges tant qu'ils sont baissés. Rebroussez chemin pour récupérer le coffre : il contient **20 rubis**.
+Vous vous retrouvez dans un mini-labyrinthe. Prenez par la gauche en direction du pot, continuez tout droit jusqu'à rencontrer un croisement, où il y a les quatre pots : prenez sur la gauche pour passer entre ces quatre pots. Avant que le sol ne devienne sombre, passez par le sud : le nord est piégé et vous empêchera de passer. Vous pouvez ainsi récupérer le **Fragment de Cœur #02**. Revenez au croisement avec les quatre pots, et cette fois prenez à droite. Ne prenez pas le téléporteur et passez plutôt au niveau des plots oranges. Longez le muret sur la gauche jusqu'à la statue et tirez-la d'un cran. Profitez-en pour activer l'interrupteur de cristal. Vous pouvez le faire soit en diagonale depuis les plots oranges, soit le faire de face et vite aller vers le nord pour montez sur les plots oranges tant qu'ils sont baissés. Rebroussez chemin pour récupérer le coffre : il contient **20 rubis**.
 
-Depuis l'embranchement des quatre pots, reprenez sud puis ouest directement. Un autre point de repère est depuis le premier pot que vous avez croisé lorsque vous êtes tombés : à partir de celui-ci, longez toujours le mur sur votre gauche. Vous arrivez à un passage faisant une spirale (carrée certes, mais une spirale), et continuez sur le seul chemin disponible. Vous arrivez au dernier escalier vous menant au **Réceptacle de Coeur**. Sortez en sautant par la gauche , Tom récupère automatiquement son boomerang. Il vous promet de vous donner un coup de main lorsque vous serez dans le besoin.
+Depuis l'embranchement des quatre pots, reprenez sud puis ouest directement. Un autre point de repère est depuis le premier pot que vous avez croisé lorsque vous êtes tombés : à partir de celui-ci, longez toujours le mur sur votre gauche. Vous arrivez à un passage faisant une spirale (carrée certes, mais une spirale), et continuez sur le seul chemin disponible. Vous arrivez au dernier escalier vous menant au **Réceptacle de Cœur**. Sortez en sautant par la gauche , Tom récupère automatiquement son boomerang. Il vous promet de vous donner un coup de main lorsque vous serez dans le besoin.
 
-Si vous n'aviez pas assez pour récupérer le Fragment de Coeur #01, vous devriez pouvoir l'avoir désormais. La suite vous attend à l'ouest d'où vous avez ouvert le coffre avec 20 rubis et récupéré les rubis cachés derrière les arbres, au sud-ouest du village. Tom vous descendra une échelle lorsque vous serez devant le premier donjon.
+Si vous n'aviez pas assez pour récupérer le Fragment de Cœur #01, vous devriez pouvoir l'avoir désormais. La suite vous attend à l'ouest d'où vous avez ouvert le coffre avec 20 rubis et récupéré les rubis cachés derrière les arbres, au sud-ouest du village. Tom vous descendra une échelle lorsque vous serez devant le premier donjon.
