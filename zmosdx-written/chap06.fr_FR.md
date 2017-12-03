@@ -40,7 +40,7 @@
 | 5  | Vide l'eau pour pouvoir accéder à la Carte |
 | 6  | Ouvre l'accès à la Boussole |
 | 7  | Ouvre le raccourci vers le début de la salle |
-| 8  | Ouvre l'accès au Fragment de Coeur |
+| 8  | Ouvre l'accès au Fragment de Cœur |
 | 9  | Vide le bassin au sud |
 | 10 | Ouvre le raccourci à l'ouest |
 | 11 | Vide le bassin au nord du gouffre de l'entrée |
