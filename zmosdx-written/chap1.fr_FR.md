@@ -22,8 +22,8 @@ Si vous avez assez de rubis, arrêtez-vous dans la *Maison des Rubis* (une panca
 
 | Etage | Carte |
 |:--:|--|
-| RDC | ![RDC](img/dungeons/00-lyriann-cave-1f.png) |
-| Sous-sol 1 | ![Sous-sol 1](img/dungeons/00-lyriann-cave-b1.png) |
+| RDC | ![RDC](img/dungeons/00-lyriann-cave-1f.fr_FR.png) |
+| Sous-sol 1 | ![Sous-sol 1](img/dungeons/00-lyriann-cave-b1.fr_FR.png) |
 
 | Salle | Ennemis |
 |:-----:|:--------|
