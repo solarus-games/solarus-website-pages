@@ -2,3 +2,4 @@
 
 [jumbotron][/jumbotron][banner label=Games made with Solarus link-label=More games link-url=#]
 [game_sheet id=4]
+[games_thumbnail ids=4,20,21]
