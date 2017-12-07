@@ -1,3 +1,4 @@
 # Home
 
-[jumbotron][/jumbotron][banner label=Games made with Solarus link-label=More games link-url=#][/banner]
+[jumbotron][/jumbotron][banner label=Games made with Solarus link-label=More games link-url=#]
+[game_sheet id=4]
