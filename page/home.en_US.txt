@@ -1,5 +1,10 @@
 # Home
 
-[jumbotron][/jumbotron][banner label=Games made with Solarus link-label=More games link-url=#]
+[jumbotron]
+* A **free** and **open-source 2D Action-RPG** game engine
+* Written in **C++** and runs games in Lua
+* Runs on **multiple plateforms**
+* A game editor called **Solarus Quest Editor**
+[/jumbotron][banner label=Games made with Solarus link-label=More games link-url=#]
 [game_sheet id=4]
 [games_thumbnail ids=4,20,21]
