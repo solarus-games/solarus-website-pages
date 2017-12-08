@@ -5,12 +5,15 @@
 * Written in **C++** and runs games in Lua
 * Runs on **multiple plateforms**
 * A game editor called **Solarus Quest Editor**
-[/jumbotron][banner label=Games made with Solarus link-label=More games link-url=#]
-[game_sheet id=4]
-[games_thumbnail ids=4,20,21]
+[/jumbotron]
+[banner label='Games made with Solarus' link-label='More games' link-url='#']
+[game_sheet id='4']
+[games_thumbnail ids='4,20,21']
 [container]
-[banner_title title=Development]
-[highlight title=Learn icon=book width=6]Make your own game with Solarus:tutorials,videos,examples and more.[/highlight]
-[highlight title=Contribute icon=flask width=6]Want to help?Here is how to contribute to the project,either you're a dev,an artist,a translator or just want to donate.[/highlight]
-[banner_title title=Latest news width=6][banner_title title=Twitter width=6]
+[banner_title title='Development']
+[highlight title='Learn' icon='book' width='6']Make your own game with Solarus:tutorials,videos,examples and more.[/highlight]
+[highlight title='Contribute' icon='flask' width='6']Want to help?Here is how to contribute to the project,either you're a dev,an artist,a translator or just want to donate.[/highlight]
+[banner_title title='Latest news' width='6']
+[banner_title title='Twitter' width='6']
+[latest_news count='5' width='6']
 [/container]
