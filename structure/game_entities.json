@@ -1,0 +1,22 @@
+{
+    "content": {
+        "type": "content",
+        "label": "Content"
+    },
+    "excerpt": {
+        "type": "text",
+        "label": "Excerpt"
+    },
+    "public_page": {
+        "type": "boolean",
+        "label": "Public page?"
+    },
+    "slug": {
+        "type": "string",
+        "label": "Slug"
+    },
+    "title": {
+        "type": "string",
+        "label": "Title"
+    }
+}

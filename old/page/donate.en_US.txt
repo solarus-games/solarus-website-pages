@@ -1,0 +1,17 @@
+# Donate
+
+## Why Donate
+
+The Solarus engine, Solarus Quest Editor and all our games are free and open-source. They are developed by people on their free time, as a hobby. We spend a lot of time working on these projects, and we intend to continue!
+If you appreciate our work, your donations can help with the hosting fees and show that Solarus is appreciated.
+
+[text icon='btc' title='Donate via Bitcoin']Use the following adresse: **1Dghfhsjbjgknjdfbrfbjfjb**
+Or the QR-Code:[/text]
+[text icon='paypal' title='Donate via Paypal' type='odd']
+There is no minimal amount for your donation. The button below will take the the secure Paypal Web site.
+You don't need to have a paypal account in order to make a donation.
+[paypal name='Donate to Solarus' currency='EUR' email='potamouch@gmail.com']
+[/text]
+[text icon='hand-o-up' title='Donate via Flattr']
+[flattr]
+[/text]

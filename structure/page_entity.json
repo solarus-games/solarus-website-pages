@@ -1,0 +1,31 @@
+{
+    "content": {
+        "type": "content",
+        "label": "Content"
+    },
+    "creation_date": {
+        "type": "date",
+        "label": "Creation date"
+    },
+    "excerpt": {
+        "type": "text",
+        "label": "Excerpt"
+    },
+    "id": {
+        "type": "integer",
+        "label": "ID"
+    },
+    "parent": {
+        "type": "entity",
+        "label": "Parent",
+        "entity_type": "page"
+    },
+    "public_page": {
+        "type": "boolean",
+        "label": "Public page?"
+    },
+    "title": {
+        "type": "string",
+        "label": "Title"
+    }
+}

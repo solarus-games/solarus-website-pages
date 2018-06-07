@@ -1,0 +1,36 @@
+{
+    "categories": {
+        "type": "entities",
+        "label": "Categories",
+        "target": "category"
+    },
+    "content": {
+        "type": "content",
+        "label": "Content"
+    },
+    "creation_date": {
+        "type": "date",
+        "label": "Creation date"
+    },
+    "excerpt": {
+        "type": "text",
+        "label": "Excerpt"
+    },
+    "id": {
+        "type": "integer",
+        "label": "ID"
+    },
+    "public_page": {
+        "type": "boolean",
+        "label": "Public page?"
+    },
+    "tags": {
+        "type": "entities",
+        "label": "Tags",
+        "target": "tag"
+    },
+    "title": {
+        "type": "string",
+        "label": "Title"
+    }
+}

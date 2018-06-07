@@ -1,0 +1,11 @@
+# Solarus Team
+## History
+Solarus is developed by a team of Zelda-lovers on their free time, as a hobby. It begins back in time, in 2002 to be exact, in France, when Christopho, the creator and main contributor of Solarus, created a website for its first game : Zelda-Solarus, still active today. It was a way to promote the first version of Mystery of Solarus, which he made with RPG Maker.
+## Team
+Solarus is an open-source project, so the people contributing make the community. However, the creator, and main contributor since the beginning of the project, is Christopho. Around him, you can find a small team of people helping for the engine, the quest editor, the website and the games.
+[team_item name=Christopho twitter-account=ChristophoZS]Creator, main developer and final boss of Solarus.[/team_item]
+[team_item name=Binbin twitter-account=zelda_force]Developer and webmaster[/team_item]
+[team_item name=Diarandor]Pixel-art and music artist[/team_item]
+[team_item name=Maxs]Description Maxs[/team_item]
+[team_item name=olivclr]Artist and webmaster[/team_item]
+[team_item name=Renkineko]Description Renkineko[/team_item]
